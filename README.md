@@ -1,5 +1,3 @@
-# public-projects
-
 # My projects
 This project contains simple applications in different programming languages only demonstratively and to show my ability to generate programs and applications. All these applications can be downloaded, tested. They can be used but cannot be sold.
 
